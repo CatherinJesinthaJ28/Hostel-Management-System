@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "catherin-jesintha-jflutter-app",
+          "appId": "1:1052646182920:android:61a270eaae8bafa7b841bd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "catherin-jesintha-jflutter-app",
+          "configurations": {
+            "android": "1:1052646182920:android:61a270eaae8bafa7b841bd",
+            "web": "1:1052646182920:web:8dd664b16e3aaa76b841bd"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

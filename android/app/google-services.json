@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052646182920",
+    "project_id": "catherin-jesintha-jflutter-app",
+    "storage_bucket": "catherin-jesintha-jflutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052646182920:android:61a270eaae8bafa7b841bd",
+        "android_client_info": {
+          "package_name": "com.example.hostel_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjEAWnOyq81tq6zZHi_eNOHE1p-r_bzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
